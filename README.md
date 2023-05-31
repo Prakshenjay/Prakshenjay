@@ -14,9 +14,8 @@
 	
 <picture>
 <img src = "https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif" width = 100px>
-<h2><b>About Me</b></h2>
 </picture>
-
+<h2><b>About Me</b></h2>
 
 <br>
 
@@ -96,7 +95,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
