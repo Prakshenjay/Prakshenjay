@@ -7,7 +7,7 @@
 
 <br>
 	
-<table width = 300px>
+<table width = 350px border = 0>
 <tr>
 <td><picture><img src = "https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif" width = 100px></picture> </td>
 <td><h2><b>About Me</b></h2></td>
