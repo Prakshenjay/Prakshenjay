@@ -9,12 +9,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Prakshenjay+Bhati..++;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3">
   </a>
 </p>
-
-<br>
 	
-<picture>
-<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 100px>
-</picture>
+
+<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 200px>
+
 <h2><b>About Me</b></h2>
 
 <br>
