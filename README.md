@@ -11,7 +11,7 @@
 </p>
 	
 
-<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 200px>
+<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" align = "center" width = 200px>
 
 <h2><b>About Me</b></h2>
 
