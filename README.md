@@ -10,9 +10,9 @@
   </a>
 </p>
 	
-<h2 align = "center">
+<p align = "center">
 <img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 200px>
-</h2>
+</p>
 
 <h2><b>About Me</b></h2>
 
