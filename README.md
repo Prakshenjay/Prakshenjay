@@ -13,7 +13,7 @@
 <br>
 	
 <picture>
-<img src = "https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif" width = 100px>
+<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 100px>
 </picture>
 <h2><b>About Me</b></h2>
 
@@ -86,7 +86,6 @@
 </a>
 </div> -->
 
-<br>
 <br>
 <br>
 
